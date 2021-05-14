@@ -1,0 +1,6 @@
+module Pods_AudioTest_AudioTestTests {
+  umbrella header "Pods-AudioTest-AudioTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
